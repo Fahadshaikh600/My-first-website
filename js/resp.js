@@ -1,4 +1,4 @@
-let burger, navbar, rightNav, navList, input;
+let burger, navbar, rightNav, navList, input, content;
 
 burger = document.querySelector(".burger");
 rightNav = document.getElementById("right-nav");
@@ -10,5 +10,6 @@ burger.addEventListener("click", () => {
   navbar.classList.toggle("nav-h-resp");
   rightNav.classList.toggle("v-class-resp");
   navList.classList.toggle("v-class-resp");
-  content.classList.toggle("txt-ceter");
 });
+
+content.classList.toggle("txt-ceter");

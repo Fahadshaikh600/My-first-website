@@ -67,6 +67,10 @@
     margin: 34px 0 0px 0px;
   }
 
+  .thumbnail img {
+    max-width: 61vw;
+  }
+
   .resp-txt-center {
     text-align: center;
   }

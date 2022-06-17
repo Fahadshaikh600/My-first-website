@@ -64,6 +64,7 @@ header {
 #nav-list li {
   padding: 23px 26px;
   list-style: none;
+  text-align: center;
 }
 
 #nav-list li a {
