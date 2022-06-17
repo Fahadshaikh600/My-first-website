@@ -162,7 +162,7 @@ header {
 
 #formOfContact {
   max-width: 64%;
-  margin: 12px auto;
+  margin: 12px auto 0 auto;
   display: flex;
   flex-direction: column;
 }
