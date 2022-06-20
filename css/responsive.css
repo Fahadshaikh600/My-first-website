@@ -43,10 +43,6 @@
     max-width: 100%;
   }
 
-  .leftHand img {
-    max-width: 100%;
-  }
-
   .leftHand {
     display: flex;
     margin: 0px 0px 29px 0;
@@ -63,11 +59,11 @@
     text-align: center;
   }
 
-  .thumbnail {
+  .thuresp-mbnail {
     margin: 34px 0 0px 0px;
   }
 
-  .thumbnail img {
+  .thuresp-mbnail img {
     max-width: 61vw;
   }
 
@@ -78,9 +74,56 @@
   .leftHand {
     width: 65%;
   }
+  .resp-mt1 {
+    margin-top: 8px;
+  }
+  .resp-mt2 {
+    margin-top: 10px;
+  }
+  .resp-mt3 {
+    margin-top: 14px;
+  }
+  .resp-mt4 {
+    margin-top: 16px;
+  }
 
-  .resp-mr-0 {
-    margin: 0;
+  .resp-ml1 {
+    margin-left: 8px;
+  }
+  .resp-ml2 {
+    margin-left: 10px;
+  }
+  .resp-ml3 {
+    margin-left: 14px;
+  }
+  .resp-ml4 {
+    margin-left: 16px;
+  }
+
+  .resp-mb1 {
+    margin-bottom: 8px;
+  }
+  .resp-mb2 {
+    margin-bottom: 10px;
+  }
+  .resp-mb3 {
+    margin-bottom: 14px;
+  }
+  .resp-mb4 {
+    margin-bottom: 16px;
+  }
+
+  .resp-mr1 {
+    margin-right: 8px;
+  }
+  .resp-mr2 {
+    margin-right: 10px;
+  }
+  .resp-mr3 {
+    margin-right: 14px;
+  }
+  .resp-mr4 {
+    margin-right: 16px;
   }
 
   #nav-bar-form {

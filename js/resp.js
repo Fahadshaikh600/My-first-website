@@ -1,5 +1,3 @@
-let burger, navbar, rightNav, navList, input, content;
-
 burger = document.querySelector(".burger");
 rightNav = document.getElementById("right-nav");
 navList = document.getElementById("nav-list");
